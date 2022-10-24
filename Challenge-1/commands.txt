@@ -1,0 +1,6 @@
+Command to create project called players and associated application cricket./
+
+C:\>django-admin startproject players
+
+
+C:\players>python manage.py startapp cricket
